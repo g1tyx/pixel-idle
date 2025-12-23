@@ -135,7 +135,7 @@ var cnItems = {
     "training": "训练",
     "weapon": "武器",
     "ERROR: SELECT CHARACTER FIRST": "错误：请先选择角色",
-    "": "",
+    "CP:": "战力:",
     "": "",
     "": "",
     "": "",
